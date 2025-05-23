@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|c:\\dotnet\\allprojectbackup12042025\\allprojectbackup12042025\\dotnet\\finaladbackup\\domaincontroller\\domaincontroller\\domaincontroller\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|solutionrelative:domaincontroller\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\domaincontroller\\tcdomiancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|solutionrelative:domaincontroller\\tcdomiancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\domaincontroller\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|solutionrelative:domaincontroller\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\domaincontroller\\linkage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|solutionrelative:domaincontroller\\linkage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\domaincontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|solutionrelative:domaincontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\domaincontroller\\domaininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|solutionrelative:domaincontroller\\domaininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\domaincontroller\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|solutionrelative:domaincontroller\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\domaincontroller\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|solutionrelative:domaincontroller\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\domaincontroller\\helpermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|solutionrelative:domaincontroller\\helpermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\domaincontroller\\auditpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|solutionrelative:domaincontroller\\auditpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\domaincontroller\\organizationalunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|solutionrelative:domaincontroller\\organizationalunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\domaincontroller\\grouppolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|solutionrelative:domaincontroller\\grouppolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\domaincontroller\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744CDB1-F81E-4C52-84DE-795FF6348281}|DomainController\\DomainController.csproj|solutionrelative:domaincontroller\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DomainInfo.cs",
+              "DocumentMoniker": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\DomainInfo.cs",
+              "RelativeDocumentMoniker": "DomainController\\DomainInfo.cs",
+              "ToolTip": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\DomainInfo.cs",
+              "RelativeToolTip": "DomainController\\DomainInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:38:28.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\List.cs",
+              "RelativeDocumentMoniker": "DomainController\\List.cs",
+              "ToolTip": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\List.cs",
+              "RelativeToolTip": "DomainController\\List.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowFsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:03:55.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TCDomianController.cs",
+              "DocumentMoniker": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\TCDomianController.cs",
+              "RelativeDocumentMoniker": "DomainController\\TCDomianController.cs",
+              "ToolTip": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\TCDomianController.cs",
+              "RelativeToolTip": "DomainController\\TCDomianController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwFYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:03:55.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\Device.cs",
+              "RelativeDocumentMoniker": "DomainController\\Device.cs",
+              "ToolTip": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\Device.cs",
+              "RelativeToolTip": "DomainController\\Device.cs",
+              "ViewState": "AgIAADYBAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:03:55.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\Group.cs",
+              "RelativeDocumentMoniker": "DomainController\\Group.cs",
+              "ToolTip": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\Group.cs",
+              "RelativeToolTip": "DomainController\\Group.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:03:55.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Linkage.cs",
+              "DocumentMoniker": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\Linkage.cs",
+              "RelativeDocumentMoniker": "DomainController\\Linkage.cs",
+              "ToolTip": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\Linkage.cs",
+              "RelativeToolTip": "DomainController\\Linkage.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAmwJECAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:03:55.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\Program.cs",
+              "RelativeDocumentMoniker": "DomainController\\Program.cs",
+              "ToolTip": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\Program.cs",
+              "RelativeToolTip": "DomainController\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:03:55.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\User.cs",
+              "RelativeDocumentMoniker": "DomainController\\User.cs",
+              "ToolTip": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\User.cs",
+              "RelativeToolTip": "DomainController\\User.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:03:55.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrganizationalUnit.cs",
+              "DocumentMoniker": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\OrganizationalUnit.cs",
+              "RelativeDocumentMoniker": "DomainController\\OrganizationalUnit.cs",
+              "ToolTip": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\OrganizationalUnit.cs",
+              "RelativeToolTip": "DomainController\\OrganizationalUnit.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAkwFQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:03:55.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "helperMethod.cs",
+              "DocumentMoniker": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\helperMethod.cs",
+              "RelativeDocumentMoniker": "DomainController\\helperMethod.cs",
+              "ToolTip": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\helperMethod.cs",
+              "RelativeToolTip": "DomainController\\helperMethod.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwIMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:03:55.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuditPolicy.cs",
+              "DocumentMoniker": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\AuditPolicy.cs",
+              "RelativeDocumentMoniker": "DomainController\\AuditPolicy.cs",
+              "ToolTip": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\AuditPolicy.cs",
+              "RelativeToolTip": "DomainController\\AuditPolicy.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwDkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:03:55.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroupPolicy.cs",
+              "DocumentMoniker": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\GroupPolicy.cs",
+              "RelativeDocumentMoniker": "DomainController\\GroupPolicy.cs",
+              "ToolTip": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\GroupPolicy.cs",
+              "RelativeToolTip": "DomainController\\GroupPolicy.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAgwJkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:03:55.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\Contact.cs",
+              "RelativeDocumentMoniker": "DomainController\\Contact.cs",
+              "ToolTip": "C:\\DOTNET\\AllProjectBackup12042025\\AllProjectBackup12042025\\DOTNET\\finalADBackup\\DomainController\\DomainController\\DomainController\\Contact.cs",
+              "RelativeToolTip": "DomainController\\Contact.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:03:55.709Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
